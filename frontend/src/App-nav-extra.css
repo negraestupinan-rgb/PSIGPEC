@@ -1,0 +1,15 @@
+.App-nav a {
+  cursor: pointer;
+  padding: 6px 10px;
+  border-radius: 4px;
+  transition: background-color 0.15s ease;
+}
+
+.App-nav a:hover {
+  background-color: rgba(255, 255, 255, 0.15);
+}
+
+.App-nav a.activo {
+  background-color: #003366;
+  font-weight: bold;
+}

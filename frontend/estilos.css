@@ -1,0 +1,11 @@
+/* Esto le dice al navegador que el h1 debe ser azul */
+h1 {
+    color: blue;
+}
+
+
+/* Esto le da un poco de estilo al cuerpo de la página */
+body {
+    font-family: sans-serif;
+    background-color: #F4F6F9;
+}
